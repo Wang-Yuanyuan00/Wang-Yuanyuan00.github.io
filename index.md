@@ -56,4 +56,4 @@ I am a PhD student studying at the School of Computer Science, Nanjing Universit
 
 ## Publications
 
-- **Jul 2023：**<font color='red'>[软件学报'23]</font>面向本地差分隐私的数据污染攻击及防御方法 (Under Review) **Wangyuanyuan**, Zhu Youwen
+- **Jul 2023：**<font color='red'>[软件学报'23]</font>面向本地差分隐私的数据污染攻击及防御方法 **Wangyuanyuan**, Zhu Youwen (Under Review) 
