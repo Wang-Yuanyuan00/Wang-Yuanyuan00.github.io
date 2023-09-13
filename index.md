@@ -9,9 +9,12 @@ layout: page
 Here is **Wang Yuanyuan (王源源)**.
 
 <!-- I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)]. -->
+
 I am a PhD student studying at the School of Computer Science, Nanjing University of Aeronautics and Astronautics (NUAA). My tutor is Professor [Zhu Youwen](http://zhuyw.cn/). My research interests are **data security and privacy protection**, and I am currently doing research on **local differential privacy**.
 
 <br>
+
+---
 
 ## Academic Background
 
