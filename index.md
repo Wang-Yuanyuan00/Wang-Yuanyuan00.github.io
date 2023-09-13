@@ -2,9 +2,9 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
-<img src="https://wangyuanyuan.com/wangyuanyuan.jpg" class="floatpic" width="360" height="480">
+<!-- <img src="https://wangyuanyuan.com/wangyuanyuan.jpg" class="floatpic" width="360" height="480"> -->
 
 Here is **Wang Yuanyuan (王源源)**.
 
